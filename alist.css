@@ -6,7 +6,7 @@ Koyuki
 */
 
 body{
-	background-image:url('http://api.mtyqx.cn/tapi/random.php'); //将此处替换为你自己的背景图api地址
+	background-image:url('https://api.bimg.cc/random?w=1920&h=1080&mkt=zh-CN'); //将此处替换为你自己的背景图api地址
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
